@@ -1,8 +1,8 @@
 {
   "theme": "obsidian",
   "cssTheme": "Typewriter",
-  "monospaceFontFamily": "Cascadia Code,Noto Sans SC,微软雅黑",
-  "textFontFamily": "微软雅黑",
+  "monospaceFontFamily": "Sarasa Mono Slab J,Cascadia Code,Noto Sans SC,微软雅黑",
+  "textFontFamily": "Sarasa Mono Slab J,微软雅黑",
   "interfaceFontFamily": "微软雅黑",
   "accentColor": "#51c8fb",
   "enabledCssSnippets": [
