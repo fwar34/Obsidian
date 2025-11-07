@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "20251107090604160",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3a7e267aab0794a3",
+  "active": "3a1f8aa748a6ad09",
   "lastOpenFiles": [
+    "Obsidian配置/images/自定义/file-20251107090859444.png",
+    "Obsidian配置/images/自定义/file-20251107090604160.png",
     "Obsidian配置/images/自定义/file-20251107090108607.png",
     "Obsidian配置/images/自定义/file-20251107085937741.png",
     "images/自定义",
