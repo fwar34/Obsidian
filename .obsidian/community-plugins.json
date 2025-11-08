@@ -5,8 +5,13 @@
   "obsidian-custom-attachment-location",
   "editing-toolbar",
   "obsidian-table-generator",
-  "code-styler",
   "highlightr-plugin",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "auto-git",
+  "plugin-reloader",
+  "codeblock-customizer",
+  "file-cleaner-redux",
+  "sidebar-highlights",
+  "webpage-html-export"
 ]

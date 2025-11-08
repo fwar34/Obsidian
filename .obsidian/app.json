@@ -1,8 +1,9 @@
 {
   "newFileLocation": "current",
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "vimMode": false,
   "promptDelete": false,
   "useTab": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "showIndentGuide": false
 }
