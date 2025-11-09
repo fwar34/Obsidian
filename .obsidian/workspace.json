@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "JavaScript/Promise 工作原理.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -102,9 +102,32 @@
               "icon": "lucide-file",
               "title": "Promise 工作原理"
             }
+          },
+          {
+            "id": "2d14573022958554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian配置/配置.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "配置"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4bbd10f6d861433c",
@@ -177,8 +201,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Promise 工作原理.md",
-                "collapseAll": false,
+                "file": "Obsidian配置/配置.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -187,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Promise 工作原理 的反向链接列表"
+              "title": "配置 的反向链接列表"
             }
           },
           {
@@ -225,30 +249,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Promise 工作原理.md",
+                "file": "Obsidian配置/配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Promise 工作原理 的大纲"
-            }
-          },
-          {
-            "id": "ed49c85aa3a06cda",
-            "type": "leaf",
-            "state": {
-              "type": "highlights-sidebar",
-              "state": {},
-              "icon": "highlighter",
-              "title": "Highlights"
+              "title": "配置 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,22 +282,22 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "f4394b0266460a1a",
+  "active": "3a7e267aab0794a3",
   "lastOpenFiles": [
+    "Obsidian配置/自定义插件.md",
+    "Obsidian配置/配置.md",
     "JavaScript/promise async wait原理.md",
     "JavaScript/Promise 工作原理.md",
     "diary/2025-11-08.md",
     "Diary",
     "新建文件夹",
-    "Obsidian配置/自定义插件.md",
-    "Obsidian配置/配置.md",
     "test.js~",
     "test.js",
     "JavaScript",
     "Obsidian配置/images/配置",
     "Obsidian配置/images/配置/file-20251107205424264.png",
     "Excalidraw/Drawing 2025-11-07 20.38.31.excalidraw.md",
-    "嵌入式/RTC时间获取.md",
+    "MCU/RTC时间获取.md",
     "Excalidraw",
     "欢迎.md",
     "创建链接.md",
@@ -297,6 +313,6 @@
     "Obsidian配置/images/配置/file-20251107205424331.png",
     "Obsidian配置/images/自定义",
     "未命名.md",
-    "嵌入式/images/RTC时间获取/file-20251107002447359.png"
+    "MCU/images/RTC时间获取/file-20251107002447359.png"
   ]
 }
