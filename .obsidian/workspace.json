@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian配置/配置.md",
+                "file": "MCU/RTC时间获取.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "配置"
+              "title": "RTC时间获取"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian配置/配置.md",
+                "file": "MCU/RTC时间获取.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置 的大纲"
+              "title": "RTC时间获取 的大纲"
             }
           }
         ],
@@ -308,6 +308,7 @@
   },
   "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
+    "Obsidian配置/配置.md",
     "Obsidian配置/images/配置/file-20251109225920891.png",
     "Obsidian配置/images/配置/file-20251109225844837.png",
     "Obsidian配置/images/配置/file-20251109225827064.png",
@@ -316,7 +317,6 @@
     "Diary/images/2025-11-09/file-20251109224844687.png",
     "Diary/images/2025-11-09",
     "Diary/images",
-    "Obsidian配置/配置.md",
     "MCU/RTC时间获取.md",
     "MCU/images/RTC时间获取/file-20251109223932336.png",
     "MCU/images/RTC时间获取/file-20251109223925192.png",
@@ -334,7 +334,6 @@
     "test.js",
     "JavaScript",
     "Obsidian配置/images/配置",
-    "Obsidian配置/images/配置/file-20251107205424264.png",
     "Excalidraw/Drawing 2025-11-07 20.38.31.excalidraw.md",
     "Excalidraw",
     "欢迎.md",
