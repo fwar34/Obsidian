@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU/RTC时间获取.md",
+                "file": "Diary/2025-11-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RTC时间获取"
+              "title": "2025-11-09"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/RTC时间获取.md",
+                "file": "Diary/2025-11-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RTC时间获取 的大纲"
+              "title": "2025-11-09 的大纲"
             }
           }
         ],
@@ -308,13 +308,17 @@
   },
   "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
+    "Diary/images/2025-11-09/file-20251109224844687.png",
+    "Diary/images/2025-11-09",
+    "Diary/images",
+    "Obsidian配置/配置.md",
+    "MCU/RTC时间获取.md",
     "MCU/images/RTC时间获取/file-20251109223932336.png",
     "MCU/images/RTC时间获取/file-20251109223925192.png",
     "JavaScript/Promise 工作原理.md",
     "JavaScript/promise async wait原理.md",
     "Obsidian配置/自定义插件.md",
     "Obsidian配置/我的插件 auto-git.md",
-    "Obsidian配置/配置.md",
     "Obsidian配置/images/配置/file-20251109223853509.png",
     "Obsidian配置/images/配置/file-20251109223845626.png",
     "Obsidian配置/images/配置/file-20251109223834687.png",
@@ -328,7 +332,6 @@
     "Obsidian配置/images/配置",
     "Obsidian配置/images/配置/file-20251107205424264.png",
     "Excalidraw/Drawing 2025-11-07 20.38.31.excalidraw.md",
-    "MCU/RTC时间获取.md",
     "Excalidraw",
     "欢迎.md",
     "创建链接.md",
@@ -337,9 +340,6 @@
     "Obsidian配置/images/配置/file-20251107205424286.png",
     "Obsidian配置/images/配置/file-20251107205424298.png",
     "images/自定义",
-    "images",
-    "Obsidian配置/images/配置/file-20251107205424310.png",
-    "Obsidian配置/images/自定义",
     "未命名.md"
   ]
 }
