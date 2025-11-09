@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Promise 工作原理.md",
+                "file": "Obsidian配置/自定义插件.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Promise 工作原理"
+              "title": "自定义插件"
+            }
+          },
+          {
+            "id": "2a423b3b3dd85953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian配置/我的插件 auto-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "我的插件 auto-git"
             }
           },
           {
@@ -127,7 +151,8 @@
               "title": "配置"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4bbd10f6d861433c",
@@ -249,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian配置/配置.md",
+                "file": "Obsidian配置/我的插件 auto-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置 的大纲"
+              "title": "我的插件 auto-git 的大纲"
             }
           }
         ],
@@ -282,12 +306,13 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "3a7e267aab0794a3",
+  "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
     "Obsidian配置/自定义插件.md",
+    "Obsidian配置/我的插件 auto-git.md",
     "Obsidian配置/配置.md",
-    "JavaScript/promise async wait原理.md",
     "JavaScript/Promise 工作原理.md",
+    "JavaScript/promise async wait原理.md",
     "diary/2025-11-08.md",
     "Diary",
     "新建文件夹",
