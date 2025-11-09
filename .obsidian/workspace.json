@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian配置/我的插件 auto-git.md",
+                "file": "Diary/2025-11-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "我的插件 auto-git"
+              "title": "2025-11-09"
             }
           },
           {
@@ -303,14 +303,16 @@
       "auto-git:Sample Plugin": false,
       "file-cleaner-redux:Clean files": false,
       "sidebar-highlights:Open highlights": false,
-      "webpage-html-export:导出为HTML": false
+      "webpage-html-export:导出为HTML": false,
+      "auto-git:auto-git": false
     }
   },
   "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
+    "Obsidian配置/我的插件 auto-git.md",
+    "Diary/2025-11-09.md",
     "test.js~",
     "Obsidian配置/自定义插件.md",
-    "Obsidian配置/我的插件 auto-git.md",
     "Obsidian配置/配置.md",
     "JavaScript/Promise 工作原理.md",
     "JavaScript/promise async wait原理.md",
