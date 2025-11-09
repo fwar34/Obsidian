@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025-11-09.md",
+                "file": "MCU/RTC时间获取.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-09"
+              "title": "RTC时间获取"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian配置/我的插件 auto-git.md",
+                "file": "MCU/RTC时间获取.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我的插件 auto-git 的大纲"
+              "title": "RTC时间获取 的大纲"
             }
           }
         ],
@@ -287,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,13 +308,18 @@
   },
   "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
-    "Obsidian配置/我的插件 auto-git.md",
-    "Diary/2025-11-09.md",
-    "test.js~",
-    "Obsidian配置/自定义插件.md",
-    "Obsidian配置/配置.md",
+    "MCU/images/RTC时间获取/file-20251109223932336.png",
+    "MCU/images/RTC时间获取/file-20251109223925192.png",
     "JavaScript/Promise 工作原理.md",
     "JavaScript/promise async wait原理.md",
+    "Obsidian配置/自定义插件.md",
+    "Obsidian配置/我的插件 auto-git.md",
+    "Obsidian配置/配置.md",
+    "Obsidian配置/images/配置/file-20251109223853509.png",
+    "Obsidian配置/images/配置/file-20251109223845626.png",
+    "Obsidian配置/images/配置/file-20251109223834687.png",
+    "Diary/2025-11-09.md",
+    "test.js~",
     "diary/2025-11-08.md",
     "Diary",
     "新建文件夹",
@@ -335,11 +339,7 @@
     "images/自定义",
     "images",
     "Obsidian配置/images/配置/file-20251107205424310.png",
-    "Obsidian配置/images/配置/file-20251107205424319.png",
-    "Obsidian配置/images/配置/file-20251107205424321.png",
-    "Obsidian配置/images/配置/file-20251107205424331.png",
     "Obsidian配置/images/自定义",
-    "未命名.md",
-    "MCU/images/RTC时间获取/file-20251107002447359.png"
+    "未命名.md"
   ]
 }
