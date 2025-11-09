@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025-11-09.md",
+                "file": "Obsidian配置/配置.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-09"
+              "title": "配置"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-11-09.md",
+                "file": "Obsidian配置/配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-09 的大纲"
+              "title": "配置 的大纲"
             }
           }
         ],
@@ -308,6 +308,11 @@
   },
   "active": "2a423b3b3dd85953",
   "lastOpenFiles": [
+    "Obsidian配置/images/配置/file-20251109225920891.png",
+    "Obsidian配置/images/配置/file-20251109225844837.png",
+    "Obsidian配置/images/配置/file-20251109225827064.png",
+    "Obsidian配置/images/配置/file-20251109225755083.png",
+    "Diary/2025-11-09.md",
     "Diary/images/2025-11-09/file-20251109224844687.png",
     "Diary/images/2025-11-09",
     "Diary/images",
@@ -322,7 +327,6 @@
     "Obsidian配置/images/配置/file-20251109223853509.png",
     "Obsidian配置/images/配置/file-20251109223845626.png",
     "Obsidian配置/images/配置/file-20251109223834687.png",
-    "Diary/2025-11-09.md",
     "test.js~",
     "diary/2025-11-08.md",
     "Diary",
@@ -335,10 +339,6 @@
     "Excalidraw",
     "欢迎.md",
     "创建链接.md",
-    "Obsidian配置/images/配置/file-20251107205424266.png",
-    "Obsidian配置/images/配置/file-20251107205424268.png",
-    "Obsidian配置/images/配置/file-20251107205424286.png",
-    "Obsidian配置/images/配置/file-20251107205424298.png",
     "images/自定义",
     "未命名.md"
   ]
