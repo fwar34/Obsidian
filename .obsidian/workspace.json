@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU/RTC时间获取.md",
+                "file": "Obsidian配置/我的插件 auto-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RTC时间获取"
+              "title": "我的插件 auto-git"
             }
           },
           {
@@ -150,9 +150,21 @@
               "icon": "lucide-file",
               "title": "配置"
             }
+          },
+          {
+            "id": "30c96c1b05f2dca0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/RTC时间获取.md",
+                "file": "JavaScript/promise async wait原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RTC时间获取 的大纲"
+              "title": "promise async wait原理 的大纲"
             }
           }
         ],
@@ -299,16 +311,21 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "auto-git:Sample Plugin": false,
       "file-cleaner-redux:Clean files": false,
       "sidebar-highlights:Open highlights": false,
       "webpage-html-export:导出为HTML": false,
       "auto-git:auto-git": false
     }
   },
-  "active": "2a423b3b3dd85953",
+  "active": "0ad8652f4c0a73f9",
   "lastOpenFiles": [
     "Obsidian配置/配置.md",
+    "Obsidian配置/未命名.md",
+    "JavaScript/promise async wait原理.md",
+    "JavaScript/Promise 工作原理.md",
+    "Obsidian配置/我的插件 auto-git.md",
+    "Obsidian配置/自定义插件.md",
+    "MCU/RTC时间获取.md",
     "Obsidian配置/images/配置/file-20251109225920891.png",
     "Obsidian配置/images/配置/file-20251109225844837.png",
     "Obsidian配置/images/配置/file-20251109225827064.png",
@@ -317,13 +334,8 @@
     "Diary/images/2025-11-09/file-20251109224844687.png",
     "Diary/images/2025-11-09",
     "Diary/images",
-    "MCU/RTC时间获取.md",
     "MCU/images/RTC时间获取/file-20251109223932336.png",
     "MCU/images/RTC时间获取/file-20251109223925192.png",
-    "JavaScript/Promise 工作原理.md",
-    "JavaScript/promise async wait原理.md",
-    "Obsidian配置/自定义插件.md",
-    "Obsidian配置/我的插件 auto-git.md",
     "Obsidian配置/images/配置/file-20251109223853509.png",
     "Obsidian配置/images/配置/file-20251109223845626.png",
     "Obsidian配置/images/配置/file-20251109223834687.png",
