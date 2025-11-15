@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian配置/配置.md",
+                "file": "MCU/DHT11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "配置"
+              "title": "DHT11"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/promise async wait原理.md",
+                "file": "Diary/2025-11-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "promise async wait原理"
+              "title": "2025-11-09"
+            }
+          },
+          {
+            "id": "33e04a882fc02618",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "MCU/QPC/定时器.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "定时器"
             }
           },
           {
@@ -163,8 +175,7 @@
               "title": "版本说明 1.10.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "qpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/promise async wait原理.md",
+                "file": "MCU/DHT11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "promise async wait原理 的大纲"
+              "title": "DHT11 的大纲"
             }
           }
         ],
@@ -317,40 +328,45 @@
       "auto-git:auto-git": false
     }
   },
-  "active": "0ad8652f4c0a73f9",
+  "active": "3a7e267aab0794a3",
   "lastOpenFiles": [
+    "MCU/images/DHT11/file-20251115224415229.png",
+    "MCU/images/DHT11/file-20251115224227152.png",
+    "MCU/images/DHT11/file-20251115224210801.png",
+    "MCU/images/DHT11/file-20251115224006791.png",
+    "MCU/images/DHT11",
+    "MCU/QPC/定时器.md",
+    "MCU/DHT11.md",
+    "MCU/QPC/QPC笔记.md",
     "Obsidian配置/配置.md",
-    "Obsidian配置/未命名.md",
+    "Diary/2025-11-09.md",
+    "MCU/QPC/未命名.canvas",
+    "MCU/QPC",
+    "未命名",
+    "MCU/RTC时间获取.md",
     "JavaScript/promise async wait原理.md",
+    "Obsidian配置/未命名.md",
     "JavaScript/Promise 工作原理.md",
     "Obsidian配置/我的插件 auto-git.md",
     "Obsidian配置/自定义插件.md",
-    "MCU/RTC时间获取.md",
     "Obsidian配置/images/配置/file-20251109225920891.png",
     "Obsidian配置/images/配置/file-20251109225844837.png",
     "Obsidian配置/images/配置/file-20251109225827064.png",
     "Obsidian配置/images/配置/file-20251109225755083.png",
-    "Diary/2025-11-09.md",
     "Diary/images/2025-11-09/file-20251109224844687.png",
     "Diary/images/2025-11-09",
     "Diary/images",
     "MCU/images/RTC时间获取/file-20251109223932336.png",
     "MCU/images/RTC时间获取/file-20251109223925192.png",
-    "Obsidian配置/images/配置/file-20251109223853509.png",
-    "Obsidian配置/images/配置/file-20251109223845626.png",
-    "Obsidian配置/images/配置/file-20251109223834687.png",
     "test.js~",
     "diary/2025-11-08.md",
     "Diary",
     "新建文件夹",
     "test.js",
     "JavaScript",
-    "Obsidian配置/images/配置",
     "Excalidraw/Drawing 2025-11-07 20.38.31.excalidraw.md",
-    "Excalidraw",
     "欢迎.md",
     "创建链接.md",
-    "images/自定义",
     "未命名.md"
   ]
 }
